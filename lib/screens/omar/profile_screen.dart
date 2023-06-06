@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:graduation_proj/screens/profile_class.dart';
+import 'package:graduation_proj/screens/omar/profile_class.dart';
 
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({super.key});
